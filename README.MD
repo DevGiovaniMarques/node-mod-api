@@ -13,3 +13,6 @@ tsc --init
 #Instalar os Types
 
 npm install -D @types/express @types/node @types/sequelize @types/validator
+
+npm install nodemon
+npm install typescript
