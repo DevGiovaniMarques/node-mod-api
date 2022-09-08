@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/DevGiovaniMarques/node-mod-api#readme",
   "dependencies": {
+    "@types/cors": "^2.8.12",
+    "cors": "^2.8.5",
     "dotenv": "^16.0.2",
     "express": "^4.18.1",
     "nodemon": "^2.0.19",
